@@ -1,24 +1,24 @@
 
 # Contributors
--[Garth Scheck](https://github.com/scheck-bu)
--[Charles Wang](https://github.com/CharlesWangSA)
--[Ahmed Faraj](https://github.com/Ahmad-Faraj)
--[Amrita Shrivastava](https://github.com/Astro-naut)
--[Gangadevi]
--[Wolf-Root](https://github.com/Wolf-Root)
--[Nguyễn Quốc Vỹ - 226148 - 57]
--[Krish Savaliya](https://github.com/Krishsavaliya)
--[Tran Minh Khang](https://github.com/khang220495-rgb)
--[Nguyen Quoc Tinh]
--[Le Truong Hai]
--[Huynh Phuoc Hien](https://github.com/Phuochien121)
--[sriram rasamala](https://github.com/sriram-rasamala7)
--[Leandro Reis](https://github.com/leandro-01)
--[Vishal Perla](https://github.com/Vishal-Perla)
--Isabella Ramirez E.
--[Akash](https://github.com/Akash-code-0-1)
--[Ryu](https://github.com/wrryu528-wq)
--[shatha](https://github.com/shathaalrshoudi)
+- [Garth Scheck](https://github.com/scheck-bu)
+- [Charles Wang](https://github.com/CharlesWangSA)
+- [Ahmed Faraj](https://github.com/Ahmad-Faraj)
+- [Amrita Shrivastava](https://github.com/Astro-naut)
+- [Gangadevi]
+- [Wolf-Root](https://github.com/Wolf-Root)
+- [Nguyễn Quốc Vỹ - 226148 - 57]
+- [Krish Savaliya](https://github.com/Krishsavaliya)
+- [Tran Minh Khang](https://github.com/khang220495-rgb)
+- [Nguyen Quoc Tinh]
+- [Le Truong Hai]
+- [Huynh Phuoc Hien](https://github.com/Phuochien121)
+- [sriram rasamala](https://github.com/sriram-rasamala7)
+- [Leandro Reis](https://github.com/leandro-01)
+- [Vishal Perla](https://github.com/Vishal-Perla)
+- Isabella Ramirez E.
+- [Akash](https://github.com/Akash-code-0-1)
+- [Ryu](https://github.com/wrryu528-wq)
+- [shatha](https://github.com/shathaalrshoudi)
 - [EtharAlashri](https://github.com/etharalashri)
 -Merala Archana
 - [Sumit Pandey](https://github.com/5umitpandey)
